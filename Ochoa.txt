@@ -1,0 +1,2 @@
+Este archivo fue creado en la rama Ochoa
+Aquí estamos practicando Git: edit, stage y commit.
